@@ -2,6 +2,6 @@
 
 TODO: Add description
 
-TODO: Add photo
+![photo.jpg](./photo.jpg)
 
 ![Candle heatsink](./candle-heatsink.svg)
