@@ -1,6 +1,6 @@
 # Candle heatsink
 
-TODO: Add description
+Some weird contraption I made with a tea candle and an old heatsink.
 
 ![photo.jpg](./photo.jpg)
 
